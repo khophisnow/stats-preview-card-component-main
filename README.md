@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL:[https://github.com/khophisnow/stats-preview-card-component-main.git]()
 - Live Site URL: [Live Site]()
 
 ## My process
