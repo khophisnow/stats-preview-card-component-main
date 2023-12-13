@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:[https://github.com/khophisnow/stats-preview-card-component-main.git]()
-- Live Site URL: [Live Site]()
+- Live Site URL: [https://khophisnow.github.io/stats-preview-card-component-main/]()
 
 ## My process
 
